@@ -5,5 +5,5 @@
 ## [OS for Mega2560](https://gist.github.com/evost/8492b871c24f556e843eb2e148c90016)  
 ## [some AVR and STM32 sketchs](https://gist.github.com/evost/01cbbc48692089ced9edfd41bff67064)  
 ## [frame for Discord bot](https://github.com/evost/Discord_bot)  
-## [DoS om Pascal for fun](https://github.com/evost/DoScal)  
+## [DoS on Pascal for fun](https://github.com/evost/DoScal)  
 
