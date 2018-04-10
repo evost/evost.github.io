@@ -1,19 +1,8 @@
-# Valden
-[![](https://img.shields.io/github/downloads/evost/Valden-builds/total.svg)](https://github.com/evost/Valden-builds/releases) [![](https://img.shields.io/github/issues-raw/evost/Valden-builds.svg?label=opened%20issues)](https://github.com/evost/Valden-builds/issues?q=is%3Aopen+is%3Aissue) [![](https://img.shields.io/github/issues-closed-raw/evost/Valden-builds.svg)](https://github.com/evost/Valden-builds/issues?q=is%3Aissue+is%3Aclosed) [![](https://img.shields.io/github/release/evost/Valden-builds.svg?label=stable)](https://github.com/evost/Valden-builds/releases/latest) [![](https://img.shields.io/github/tag/evost/Valden-builds.svg?label=latest)](https://github.com/evost/Valden-builds/releases) [![](https://img.shields.io/github/license/evost/Valden-builds.svg)](https://github.com/evost/Valden-builds/blob/master/LICENSE.ru.md)
+**Hello!**
+[Valden](https://evost.github.io/valden.html).
+[ArduinoBot](https://gist.github.com/evost/4739eaf18fd2e1d79b663d6e74c65969).
+[OS for Mega2560](https://gist.github.com/evost/8492b871c24f556e843eb2e148c90016).
+[some AVR and STM32 sketchs](https://gist.github.com/evost/01cbbc48692089ced9edfd41bff67064).
+[frame for Discord bot](https://github.com/evost/Discord_bot).
+[DoS om Pascal for fun](https://github.com/evost/DoScal).
 
-Если хотите, можете прочитать этот документ [на английском](https://github.com/evost/Valden-builds/blob/master/README.md).
-
-Здесь Вы можете [скачать](https://github.com/evost/Valden-builds/releases) самые новые сброки **Valden**.
-
-Если Вы обнаружили *ошибку*, *уязвимость*, или у Вас имеется *идеи* по добавлению нового контента, можете [написать мне](https://github.com/evost), или [создать ишью](https://github.com/evost/Valden-builds/issues). Помните, лучшая помощь для нас - **новые идеи**.
-
-Если вас интересует будущее проекта, вы можете посмотреть [TODO-list](https://github.com/evost/Valden-builds/blob/master/TODO.ru.md).
-
-## О проекте
-**Valden** - это игра о испытаниях, которые предстоит пройти Вашему герою. Мы не обещаем, и сами от себя не ждем чего-то необычного. Эта игра - скорее *опыт* в gamedev, чем проект с успешным будущим. Но до сегодняшнего дня разработка не остановилась, а это что-то, да значит.
-
-## Зависимости
-Если у вас возникли проблемы с запуском, рекомендуем скачать и установить [Распространяемый пакет Visual C++](https://www.microsoft.com/ru-RU/download/details.aspx?id=48145).
-
-## Исходный код
-Это **не** open-source проект, но Вы можете поинтересоваться о том, как работает та или иная механика игры. Возможно, целиком исходный код будет открыт после финального релиза *(v1.0.0)*. Но это не точно.
