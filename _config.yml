@@ -1,1 +1,5 @@
-theme: jekyll-theme-architect
+title: Evost's projects
+description: coding for fun
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-hacker
